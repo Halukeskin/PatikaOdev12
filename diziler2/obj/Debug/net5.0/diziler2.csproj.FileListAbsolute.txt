@@ -1,0 +1,16 @@
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.exe
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.deps.json
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.runtimeconfig.json
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.runtimeconfig.dev.json
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.dll
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\ref\diziler2.dll
+C:\Users\Keskin\Desktop\pratikler\diziler2\bin\Debug\net5.0\diziler2.pdb
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.csprojAssemblyReference.cache
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.AssemblyInfoInputs.cache
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.AssemblyInfo.cs
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.dll
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\ref\diziler2.dll
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.pdb
+C:\Users\Keskin\Desktop\pratikler\diziler2\obj\Debug\net5.0\diziler2.genruntimeconfig.cache
